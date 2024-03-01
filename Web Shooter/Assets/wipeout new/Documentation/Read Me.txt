@@ -1,0 +1,38 @@
+Documentation of Wipeout Animated Asset
+
+This Wipeout asset is a collection of multiple static and animated user friendly obstacles and traps to build casual and 
+hyper casual game settings. All the low poly models are designed seperately so you can make custom textures as well. The prefabs are ready 
+to implement and could be customize in an easy go according to the desired game.
+
+we have created Different types of Models and all models are very low poly with high quality. We have created obstacles with animations that we can
+use them in hyper casual and in the running games.
+Models are made with 5 materials. We can change the material color according to the need in the environmentk, you simply create the
+new material and applied on the models. The wipeout animated asset pack consists of different objects created individually, so you can use them to 
+create an intuitive and eye-catching user interface for your 3D game or animated video. The vectors can be edited and placed at any scene in the game/video to give it a more defined look.
+
+We have different folders:
+1) Material:
+	Models are made with just 5 materials.
+2) Models: 
+	You will see all the models in the model folder.
+3) Prefabs: 
+	2 Folders you will see: All the prefabs will be included in the enviroment according to your asset. Animated prefabs is also included in this project.
+4) Scene: 
+	In scene you will see 6 levels of wipeout asset with animated prefab.
+
+7) Obstacles:
+	you will get obstacles models and material in this folder.
+8) Animations:
+	All the animations are placed in this folder.
+8)Documentation: 
+	Read Me File.
+
+Note:
+we have used the free third person starter asset from Unity asset store. 
+Url of free Third person character Asset with control (Starter Assets - Third Person Character Controller): https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526#description 
+
+All the prefabs are created, you can use each prefabs according to your environment needs. you just need to drag and drop each prefab whereever you want. you can create a big environment for you running games and 3d animated Environment. Each objects are scable, you can transform and rotate each object.
+
+
+
+ 
